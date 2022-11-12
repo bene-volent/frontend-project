@@ -336,11 +336,11 @@ body {
         color: var(--white-100);
         border-top-right-radius: 10px;
         border-bottom-right-radius: 10px;
-        border: 2px solid var(--white-100);
+        border: 2px solid var(--white-700);
         border-left: none;
     }
     .dropdown-item a[theme="dark"]::before {
-        background-color: var(--white-100);
+        background-color: var(--white-700);
     }
 }
 
